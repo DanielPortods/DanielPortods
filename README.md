@@ -1,4 +1,11 @@
-### Hello, World! 👋
+# Hello, World! 👋
+#### I'm Daniel, a former soldier who trade special Ops for DevOps. :stuck_out_tongue_winking_eye:
+
+:books: I’m currently studying about Vue.js, Node.js, MongoDB and Flutter.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielPortods&show_icons=true&theme=dark)
+
+
 
 <!--
 **DanielPortods/DanielPortods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
