@@ -4,7 +4,7 @@
 :books: I’m currently studying about Vue.js, Node.js, MongoDB and Flutter.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielPortods&hide=stars&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPortods&layout=compact&theme=radical&hide=Java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPortods&layout=compact&theme=radical&hide=Java&langs_count=10)
 
 <!--
 **DanielPortods/DanielPortods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
